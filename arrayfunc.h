@@ -1,3 +1,4 @@
+//This file contains the headers used in code.
 #ifndef ARRAYFUNC_H
 #define ARRAYFUNC_H
 	//funcn to sort the input array
