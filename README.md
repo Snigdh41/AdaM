@@ -1,12 +1,12 @@
 # AdaM
-This is the ReadMe file
-File contains: 
-1.Sorting
-2.Mean
-3.Mode
-4.Median
-5.Max
-6.Min
+## ReadMe File
+Functions involved with code are performed on **Array Input**. Contains: 
+* Sorting
+* Mean
+* Mode
+* Median
+* Max
+* Min
 
 -------------------------
 This file contains three parts of written code:
